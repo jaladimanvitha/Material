@@ -5,3 +5,20 @@ https://automationacademy.com/
 https://automationacademy.com/learn/my/
 https://academy.uipath.com/pages/7/english-home-page
 https://kb.workfusion.com/display/RPAe/How+to+Use+RPA+Recorder
+
+
+
+
+Create a new recording
+=======================
+What you should do?
+1. Open WorkFusion Studio. 
+2. Click Create new recording.
+3. Click Insert Recording.
+4. Record the following actions:
+5.Open Calculator 
+6. Make some calculations with buttons
+7. Close the application
+8. Stop recording.
+9. See what action were recorded.
+10. Try to Play recording.
