@@ -4,3 +4,4 @@ https://www.workfusion.com/
 https://automationacademy.com/
 https://automationacademy.com/learn/my/
 https://academy.uipath.com/pages/7/english-home-page
+https://kb.workfusion.com/display/RPAe/How+to+Use+RPA+Recorder
